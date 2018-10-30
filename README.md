@@ -1,3 +1,3 @@
 # Programs
-Source Code compilation.
+Source Code compilation of core Computer science concepts.
 
